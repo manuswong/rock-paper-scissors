@@ -1,0 +1,3 @@
+Aim of this project: To write the algorithm for a game of "Rock, Paper, Scissors"
+
+Reflection: I spent approximately 4-5 hours across 3 days to complete this project. What I struggled the most with in this project would be the implementation of functions within functions, as well as deciding whether I should even be creating these so-called "sub-functions" in the first place. After experimenting with an extremely lengthy "game()" function and many smaller, complementary sub-functions, I preferred the latter approach as I was able to debug the code more easily. All that I had to do was call the individual sub-functions and test them with different inputs to figure out the problems associated with the sub-function.
